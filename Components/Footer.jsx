@@ -25,7 +25,8 @@ export default () => {
       <div className="max-w-screen-xl mx-auto px-4 text-gray-600 md:px-8">
         <div className="justify-between sm:flex">
           <div className="space-y-6">
-            <img src="https://www.floatui.com/logo.svg" className="w-32"/>
+            {/* <img src="https://www.floatui.com/logo.svg" className="w-32"/> */}
+            <h3><b>SCM Dapp</b></h3>
             <p className="max-w-md">A Dapp to manage all your Supply Chain Management Tasks</p>
             <ul className="flex flex-wrap items-center gap-4 text-sm sm:text-base">
               {footerNavs.map((item, idx) => (

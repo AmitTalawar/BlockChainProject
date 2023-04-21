@@ -20,7 +20,7 @@ export default ({
             Create Tracking
           </h3>
           <p className="text-gray-600 mt-2">
-            Printing and typesetting industry.
+            Shipment details
           </p>
         </div>
         <div className="mt-3 md:mt-0">
